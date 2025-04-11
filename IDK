@@ -1,1 +1,3 @@
 bash ../scripts/build_stage1.sh <defconfig>
+../scripts/build_aur_packages.sh.
+../scripts/build_all.sh <shim. bin> <board_recovery.
